@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flash Light Manipulation</string>
+    <string name="enable">Enable</string>
+    <string name="_10_0s">10.0s</string>
+    <string name="_10_0_s">10.0s</string>
+    <string name="vibrate">Vibrate</string>
+</resources>
